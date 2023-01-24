@@ -11,11 +11,15 @@ header {
 footer {
     background-color:white;
     height: 100px;
+    margin-top: 15px;
 }
 main {
     background-color: white;
     height: 800px;
 }
 h1{
-
+    margin-left: 25px;
 }
+
+
+
