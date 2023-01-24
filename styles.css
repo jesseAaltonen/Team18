@@ -10,7 +10,8 @@ header {
 }
 footer {
     background-color:white;
-    
+    height: 100px;
+    margin-top: 15px;
     font-size: small;
 }
 main {
@@ -26,8 +27,6 @@ img{
    height: auto;
    
 
-p {
-    margin-left: 15px;
-}
+
 
 
