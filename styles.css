@@ -10,7 +10,8 @@ header {
 }
 footer {
     background-color:white;
-    
+    height: 100px;
+    margin-top: 15px;
     font-size: small;
 }
 main {
@@ -25,5 +26,9 @@ h1{
     margin-bottom: 50px;
 }
 
+
+p {
+    margin-left: 15px;
+}
 
 
