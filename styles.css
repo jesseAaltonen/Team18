@@ -20,6 +20,11 @@ main {
 h1{
     margin-left: 25px;
 }
+img{
+   align-items: center;
+   width: auto;
+   height: auto;
+   
 
 p {
     margin-left: 15px;
