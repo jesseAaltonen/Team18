@@ -12,6 +12,7 @@ footer {
     background-color:white;
     height: 100px;
     margin-top: 15px;
+    font-size: small;
 }
 main {
     background-color: white;
@@ -20,6 +21,7 @@ main {
 h1{
     margin-left: 25px;
 }
+
 
 
 
