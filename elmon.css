@@ -36,4 +36,7 @@ middel{
     margin-right: auto;
     
 }
+.flex {
+    display: flex;
+}
 
