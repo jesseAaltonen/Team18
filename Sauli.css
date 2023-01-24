@@ -2,7 +2,6 @@ body {
     background-color: aliceblue;
     margin-left: 15px;
     margin-right: 15px;
-    
 }
 header {
     height: 100px;
@@ -21,18 +20,21 @@ main {
     height: auto;
     margin-left: 15px;
     margin-right: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    
 }
 h1{
     margin-left: 25px;
     font-size: larger;
     margin-bottom: 150px;
 }
+h3 {
+    margin-left: 25px;
+}
 
 article1 {
-    margin-left: 50px;
+    margin-right: 50px;
 }
+
+
 
 
 

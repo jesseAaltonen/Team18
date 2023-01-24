@@ -1,22 +1,22 @@
 body {
-    background-color: aliceblue;
+    background-color:aliceblue;
     margin-left: 15px;
     margin-right: 15px;
 }
 header {
     height: 100px;
-    background-color: white;
+    background-color: aliceblue;
     
 }
 footer {
-    background-color:white;
+    background-color:aliceblue;
     height: 100px;
     margin-top: 15px;
     font-size: small;
     margin-bottom: 15px;
 }
 main {
-    background-color: white;
+    background-color: aliceblue;
     height: auto;
     margin-left: 15px;
     margin-right: 15px;
@@ -27,6 +27,11 @@ h1{
     margin-bottom: 150px;
 }
 
-article1 {
-    margin-left: 50px;
+article {
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+a:hover {
+    color: rgb(233, 0, 0);
 }
