@@ -36,4 +36,10 @@ middel{
     margin-right: auto;
     
 }
-
+.flex {
+    display: flex;
+}
+img.one{
+    height: 99%;
+    width: 99%;
+}
