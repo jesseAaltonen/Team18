@@ -39,4 +39,7 @@ middel{
 .flex {
     display: flex;
 }
-
+img.one{
+    height: 99%;
+    width: 99%;
+}
