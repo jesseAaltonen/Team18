@@ -23,5 +23,10 @@ if(!empty($email) && !empty($password)){
 
     //Suljetaan tietokantayhteys
     mysqli_close($yhteys);
+
+    <form action="main.html" method="post">
+           <br><input type="submit" name="OK" value="kiitos"><br>
+        </form>
+
    
 ?>
