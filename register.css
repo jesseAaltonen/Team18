@@ -5,6 +5,10 @@
   padding: 16px;
 }
 
+body {
+  background-color: rgb(255, 255, 255)
+}
+
 /* Full-width input fields */
 input[type=text], input[type=password] {
   width: 100%;
