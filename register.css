@@ -9,6 +9,16 @@ body {
   background-color: rgb(255, 255, 255)
 }
 
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
 /* Full-width input fields */
 input[type=text], input[type=password] {
   width: 100%;
@@ -32,7 +42,7 @@ hr {
 
 /* Set a style for the submit/register button */
 .registerbtn {
-  background-color: #04AA6D;
+  background-color: #5cc2f1;
   color: white;
   padding: 16px 20px;
   margin: 8px 0;
@@ -40,6 +50,7 @@ hr {
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
+  font-size: larger;
 }
 
 .registerbtn:hover {
@@ -55,4 +66,5 @@ a {
 .signin {
   background-color: #f1f1f1;
   text-align: center;
+  padding: 16x 20px;
 }
